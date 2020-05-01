@@ -2,11 +2,11 @@
 
 [![Netlify Status](https://api.netlify.com/api/v1/badges/b4e89b03-4fde-43b9-853d-63356b72648d/deploy-status)](https://app.netlify.com/sites/teamenigma/deploys)
 
-The official team wwebsite hosted at https://teamenigma.netlify.app/
+The official team website hosted at https://teamenigma.netlify.app/
 
 ## using the-code
 
-The code for the website has been made opensource usin the [MIT LICENSE](LICENSE).
+The code for the website has been made opensource using the [MIT LICENSE](LICENSE).
 
 Download the repository, and double click on the [index.html](index.html) to open the same using the web browser.
 
